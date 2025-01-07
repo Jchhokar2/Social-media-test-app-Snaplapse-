@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">SnapLapse</string>
+    <string name="preferences_file_key">preferences</string>
+
+    <!-- Login and Registration -->
+    <string name="empty_string"></string>
+    <string name="login_title">Sign in to SnapLapse</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password_button">Forgot Password?</string>
+    <string name="register_button">Register</string>
+    <string name="register_title">Register an Account</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_username_hint">Username (4-16 characters)</string>
+    <string name="re_enter_password_hint">Re-enter Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="reset_button">Reset</string>
+    <string name="incorrect_user_pass_error">Username/password is incorrect</string>
+    <string name="user_not_found_error">User could not be found</string>
+    <string name="empty_username_error">Username cannot be empty</string>
+    <string name="username_length_error">Username must be between 4 and 16 characters</string>
+    <string name="username_exists_error">Username already exists</string>
+    <string name="empty_password_error">Password cannot be empty</string>
+    <string name="mismatch_passwords_error">Passwords must match</string>
+
+    <string name="account_created_toast">Account successfully created</string>
+    <string name="password_changed_toast">Password successfully changed</string>
+
+    <string name="username_key">username</string>
+
+    <!-- Camera -->
+    <string name="shutter_button">Take Photo</string>
+    <string name="spoof_button">Spoof</string>
+    <string name="upload_button">Upload</string>
+    <string name="delete_button">Delete</string>
+
+    <!-- Recommender -->
+    <string name="recommender_title">For You</string>
+    <string name="no_recommendations">Your page looks empty. Like photos to see recommendations.</string>
+    <string name="range_label">Range</string>
+    <string name="km">km</string>
+
+    <!-- Flagging -->
+    <string name="flag_dialog_title">Report Image</string>
+    <string name="flag_dialog_confirm">Report</string>
+    <string name="flag_dialog_cancel">Cancel</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="default_user">(null)</string>
+    <string name="date_joined_tag">Date Joined: January 01 1970</string>
+    <string name="photo_timeline_tag">Uploaded %s photos into %s unique timelines</string>
+    <string name="change_avatar_button">Change Avatar</string>
+    <string name="edit_username_button">Change Username</string>
+    <string name="change_password_button">Change Password</string>
+    <string name="about_button">About</string>
+    <string name="log_out_button">Log Out</string>
+    <string name="delete_account_button">Delete Account</string>
+
+    <!-- Edit Username -->
+    <string name="edit_username_title">Edit Username</string>
+    <string name="edit_username_text_1">Enter a new username</string>
+    <string name="edit_username_confirm">Confirm</string>
+
+    <!-- Change Password -->
+    <string name="change_password_title">Change Password</string>
+    <string name="change_password_text_1">Enter a new password</string>
+    <string name="change_password_confirm">Confirm</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_text_1">Snaplapse ia a project created to fulfill the capstone project requirements</string>
+    <string name="about_text_2">ECE Class of 2023</string>
+    <string name="about_text_3">Developers: Agam Sidhu, Daniel Kim, Gautham Erathasari, Kevin Chik, Raymond Xia</string>
+    <string name="about_text_4">Advisor: Professor John Thistle from the University of Waterloo</string>
+    <string name="about_text_5">Course Instructor: Professor Sagar Naik from the University of Waterloo</string>
+
+    <!-- Log Out -->
+    <string name="log_out_dialog_title">Log Out of Snaplapse?</string>
+    <string name="log_out_dialog_confirm">Confirm</string>
+    <string name="log_out_dialog_cancel">Cancel</string>
+
+    <!-- Delete Account -->
+    <string name="delete_account_title">Delete Account</string>
+    <string name="delete_account_text_1">Deleting your account will remove your profile and all photos that you have uploaded and shared</string>
+    <string name="delete_account_text_2">You will not be able to log in to an account that has been deleted</string>
+    <string name="delete_account_text_3">This action is irreversible</string>
+    <string name="delete_account_text_4">To delete your account, type your username below (case sensitive)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_title">user</string>
+    <string name="profile_name">user</string>
+    <string name="profile_posts">Posts</string>
+    <string name="n_posts">0</string>
+    <string name="profile_followers">Followers</string>
+    <string name="n_followers">0</string>
+    <string name="profile_following">Following</string>
+    <string name="n_following">0</string>
+    <string name="timeline_title">Timeline</string>
+    <string name="image_details">%s</string>
+    <string name="like_toast">Image liked!</string>
+    <string name="flag_toast">Image flagged!</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="back">Back</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

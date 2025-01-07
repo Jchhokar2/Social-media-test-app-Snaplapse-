@@ -1,6 +1,2 @@
-# Social-media-test-app-Snaplapse-
-# Social-media-test-app-Snaplapse-
-# Social-media-test-app-Snaplapse-
-# Social-media-test-app-Snaplapse-
-# Social-media-test-app-Snaplapse-
-# Social-media-test-app-Snaplapse-
+# android
+Frontend android application written in Kotlin
